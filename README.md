@@ -1,0 +1,1 @@
+A simple malaria prediction system using Bayesian algorithm according to a client's need
